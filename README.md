@@ -46,3 +46,9 @@ Projeto licenciado sob <a href="LICENSE">The MIT License (MIT)</a>.
 ![Screenshots](screenshots/screenshot03.png)<br><br>
 ![Screenshots](screenshots/screenshot04.png)<br><br>
 ![Screenshots](screenshots/screenshot05.png)<br><br>
+
+
+Developed by<br>
+Danilo Meneghel<br>
+danilo.meneghel@gmail.com<br>
+http://danilomeneghel.github.io/<br>
