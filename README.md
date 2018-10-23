@@ -1,6 +1,6 @@
 # Locadora
 
-Trabalho acadêmico de uma locadora, desenvolvido em Java.
+Trabalho acadêmico de uma locadora, desenvolvido em Java.<br>
 O objetivo desse projeto é mostrar os conhecimentos em Java Desktop e Oracle.
 
 ## Características
@@ -10,6 +10,7 @@ O objetivo desse projeto é mostrar os conhecimentos em Java Desktop e Oracle.
 - DAO
 - Factory
 - JOptionPane
+- JDialog
 
 ## Requisitos
 
